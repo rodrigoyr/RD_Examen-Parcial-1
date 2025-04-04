@@ -1,5 +1,5 @@
 # RD_Examen-Parcial-1
-Rodrigo Yepes Rubio - 153750
+Rodrigo Yepes Rubio - 153750 <br>
 https://github.com/rodrigoyr/RD_Examen-Parcial-1.git
 
 ## Estructura del Examen Parcial Redes
