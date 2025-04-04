@@ -8,4 +8,5 @@
 •	La parte práctica está dividida en dos archivos .pkt, correspondientes a los ejercicios realizados: <br>
 1.	Ejercicio1_RutaDosReinos.pkt <br>
 2.	Ejercicio2_CiudadAislada.pkt <br>
+
 •	Además, se incluye un archivo PDF titulado "Parte 2_Examen Parcial 1_Redes", donde se describe paso a paso cómo se completaron los ejercicios prácticos. Al final de este archivo se detallan los problemas encontrados durante la resolución de los ejercicios y las soluciones propuestas.
